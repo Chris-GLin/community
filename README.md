@@ -2,14 +2,15 @@
 ## 小陈
 
 ## 资料工具
-https://spring.io/guides
+[Spring 文档](https://spring.io/guides)
 
-https://spring.io/guides/gs/serving-web-content/
+[Spring 配置](https://spring.io/guides/gs/serving-web-content/)
 
-https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key
+[key获取](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)
 
+[Git API获取](https://developer.github.com/apps/building-github-apps/)
 
 ## 工具
-https://git.com
+[Git](https://git.com)
 
-https://developer.github.com/apps/
+
