@@ -4,6 +4,8 @@
 ## 资料工具
 [Spring 文档](https://spring.io/guides)
 
+[Spring Boot 文档](https://docs.spring.io/spring-boot/docs/current/reference/html/)
+
 [Spring 配置](https://spring.io/guides/gs/serving-web-content/)
 
 [key获取](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)
